@@ -5,7 +5,7 @@
 
 
   <p align="center">
-    <a href="https://heliosbugtracker.azurewebsites.net/Tracker">View Demo</a>
+    <a href="https://react-shopping-cart-lemon.vercel.app/">View Demo</a>
   </p>
 </p>
 
