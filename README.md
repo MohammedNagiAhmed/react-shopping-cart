@@ -208,10 +208,10 @@ Only users who are logged in as the admin with the email 'admin@gmail.com' will 
   
   ## Author
 
-👤 **Midhun Kumar**
+👤 **Mohamed Nagy**
 
-- Linkedin: [@Midhun Kumar](https://www.linkedin.com/in/midhun-kumar-30b108273/)
-- Github: [@Midhun Kumar](https://github.com/Midhunkumar-se)
+- Linkedin: [@linkedin](https://www.linkedin.com)
+- Github: [@MohammedNagiAhmed](https://github.com/MohammedNagiAhmed)
 
 ## Show your support
 
